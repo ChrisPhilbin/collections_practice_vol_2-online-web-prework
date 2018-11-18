@@ -54,7 +54,7 @@ end
 def find_cool(array)
   cool.select do |word|
     word.any? do |key, value|
-      v == "cool"
+      value == "cool"
     end
   end
 end
