@@ -47,3 +47,14 @@ def count_elements(array)
     phrase1[:count] = count
   end
 end
+
+def merge_data(alpha, omega)
+end
+
+def find_cool(array)
+  cool.select do |word|
+    word.any? do |key, value|
+      v == "cool"
+    end
+  end
+end
